@@ -1,8 +1,8 @@
 <html>
-<style>
-@import url('https://fonts.googleapis.com/css?family=Ewert|Roboto&effect=3d|ice|');
-</style>    
-<h1 style="color:blue; font-family:Ewert;"> &#x1F4CB; MEI. Maths & Programming. 2018-2019</h1>    
+<link href="https://fonts.googleapis.com/css?family=Ewert|Roboto&effect=3d|ice|" rel="stylesheet">
+<body style="background-color:powderblue;">
+<h1 style="color:blue; font-family:Ewert;"> &#x1F4CB; MEI. Maths & Programming. 2018-2019</h1> 
+</body>
 </html>
 
 #### All My Projects and Notes [![Click](https://olgabelitskaya.github.io/badge_awesome.svg)](https://olgabelitskaya.github.io/README.html)
