@@ -1,4 +1,5 @@
-<h1 style="color:steelblue; text-shadow:5px 5px 5px #aaa;"> &#x1F4CB; MEI. Maths & Programming. 2018-2019</h1>
+<link href="https://fonts.googleapis.com/css?family=Ewert|Roboto&effect=3d|ice|" rel="stylesheet">
+<h1 style="color:blue; font-family:Ewert;"> &#x1F4CB; MEI. Maths & Programming. 2018-2019</h1>
 
 #### All My Projects and Notes [![Click](https://olgabelitskaya.github.io/badge_awesome.svg)](https://olgabelitskaya.github.io/README.html)
 
