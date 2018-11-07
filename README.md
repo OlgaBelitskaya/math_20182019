@@ -1,9 +1,9 @@
-<DIV CLASS="foo">
+<html>
 <style>
 @import url('https://fonts.googleapis.com/css?family=Ewert|Roboto&effect=3d|ice|');
 </style>    
 <h1 style="color:blue; font-family:Ewert;"> &#x1F4CB; MEI. Maths & Programming. 2018-2019</h1>    
-</DIV>
+</html>
 
 #### All My Projects and Notes [![Click](https://olgabelitskaya.github.io/badge_awesome.svg)](https://olgabelitskaya.github.io/README.html)
 
