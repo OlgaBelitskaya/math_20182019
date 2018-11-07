@@ -1,6 +1,7 @@
 <DIV CLASS="foo">
-<link href="https://fonts.googleapis.com/css?family=Ewert|Roboto&effect=3d|ice|" rel="stylesheet">    
-<p><em>M</em></p>
+<style>
+@import url('https://fonts.googleapis.com/css?family=Ewert|Roboto&effect=3d|ice|');
+</style>    
 <h1 style="color:blue; font-family:Ewert;"> &#x1F4CB; MEI. Maths & Programming. 2018-2019</h1>    
 </DIV>
 
