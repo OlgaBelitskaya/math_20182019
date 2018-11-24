@@ -32,10 +32,14 @@
 
 [Lab Works 2-4](https://olgabelitskaya.github.io/program_lab234.html)
 
-[Lab Works 5](https://olgabelitskaya.github.io/program_lab5.html)
+[Lab Work 5](https://olgabelitskaya.github.io/program_lab5.html)
 
-[Lab Works 6](https://olgabelitskaya.github.io/program_lab6.html)
+[Lab Work 6](https://olgabelitskaya.github.io/program_lab6.html)
 
-[Lab Works 7](https://olgabelitskaya.github.io/program_lab7.html)
+[Lab Work 7](https://olgabelitskaya.github.io/program_lab7.html)
 
-[Lab Works 8](https://olgabelitskaya.github.io/program_lab8.html)
+[Lab Work 8](https://olgabelitskaya.github.io/program_lab8.html)
+
+[Lab Work 9](https://olgabelitskaya.github.io/program_lab9.html)
+
+[Lab Works 11](https://olgabelitskaya.github.io/program_lab11.html)
