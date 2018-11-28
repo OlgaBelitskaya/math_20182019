@@ -42,4 +42,6 @@
 
 [Lab Work 9](https://olgabelitskaya.github.io/program_lab9.html)
 
+[Lab Works 10](https://olgabelitskaya.github.io/program_lab10.html)
+
 [Lab Works 11](https://olgabelitskaya.github.io/program_lab11.html)
