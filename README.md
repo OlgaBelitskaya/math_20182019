@@ -45,3 +45,5 @@
 [Lab Works 10](https://olgabelitskaya.github.io/program_lab10.html)
 
 [Lab Works 11](https://olgabelitskaya.github.io/program_lab11.html)
+
+[Standard Calculation](https://olgabelitskaya.github.io/program_standardcalc.html)
